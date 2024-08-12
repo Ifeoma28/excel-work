@@ -1,11 +1,12 @@
-#MARKET SIZING CASE
+# MARKET SIZING CASE
 
-##HOW MANY BOTTLES OF SODA ARE SOLD IN THE US YEARLY ASSUMING EACH BOTTLE OF SODA CONTAINS 2 GLASSES?
+## HOW MANY BOTTLES OF SODA ARE SOLD IN THE US YEARLY ASSUMING EACH BOTTLE OF SODA CONTAINS 2 GLASSES?
 TARGET POPULATION – 400 MILLION
 Firstly, lets segment the population by age and also by profile.
 Let’s assume an average life expectancy is 80 years with equal distribution ages. This gives us about six distributions of ages but we know that children below the age of 12 shouldn’t consume soda.
 So, lets divide the population segment, the drinking age for soda is 12 years. 
 0-12 YEARS (DO NOT DRINK SODA) and 13-80 yrs can drink soda
+![diagram](https://github.com/user-attachments/assets/3fc5cb71-55f3-4dfe-8460-2a309562ad0f)
 
 This implies that 15 percent or 3/20 of the population don’t drink soda. While 85% of the population can drink soda. Therefore 60 million people can’t drink soda while 340 million people can drink soda.
 
@@ -16,7 +17,9 @@ AND WHEN WE TALK ABOUT PEOPLE WHO DRINK SODA, WE CAN DIVIDE THEM INTO THREE SECT
 
 Let’s assume 24% of people don’t like soda, 58% of people that consume soda are moderate drinkers and 18% of the population are heavy drinkers.
 
-##Table
+## Table
+![excel table](https://github.com/user-attachments/assets/54959530-74c2-485b-9d8f-a97f4e56c6c0)
+
 
 The number of people that consumed soda is gotten by multiplying the percentage of each population segment by 340 million. Since 340 million is the target population we are working with after excluding 0 to 12 years. Nearly half of Americans report drinking at least one bottle of soda per day. So, we decided to say 3 bottles of soda are consumed by moderate drinkers in a week and 10 bottles by heavy drinkers in a week. The total number of bottles consumed weekly is 1006.4. let’s us give a rough estimate of 1000 bottles. Therefore, in a year, 
 1000*52 = 52,000
